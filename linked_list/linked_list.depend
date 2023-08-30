@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1692606428 source:c:\users\compumarts\documents\code_blocks_programs\garbish\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1692606500 source:c:\users\compumarts\documents\code_blocks_programs\garbish\linked_list\list,c.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1692547504 c:\users\compumarts\documents\code_blocks_programs\garbish\linked_list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+
+1692346838 c:\users\compumarts\documents\code_blocks_programs\garbish\linked_list\platform_types.h
+

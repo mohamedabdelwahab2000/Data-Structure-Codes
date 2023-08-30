@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1692003531 source:c:\users\compumarts\documents\code_blocks_programs\garbish\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcs.h"
+
+1692001796 c:\users\compumarts\documents\code_blocks_programs\garbish\stack\funcs.h
+	"types.h"
+
+1691999115 c:\users\compumarts\documents\code_blocks_programs\garbish\stack\types.h
+
+1692003406 source:c:\users\compumarts\documents\code_blocks_programs\garbish\stack\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"funcs.h"
+
