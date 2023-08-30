@@ -1,12 +1,6 @@
 # Data-Structure-Codes
 
-## Stack Functions
-1)Push data to the stack
-2) Pop data from the stack
-3) Stack top
-4)Stack initialize
-5) Get Stack Size
-6) Display stack elements
+
 
 ## Linked List Functions
 1) Insert a node at the end
@@ -17,4 +11,10 @@
 6) Display the nodes
 7) Get length
 
-
+## Stack Functions
+1)Push data to the stack
+2) Pop data from the stack
+3) Stack top
+4)Stack initialize
+5) Get Stack Size
+6) Display stack elements
